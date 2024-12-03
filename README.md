@@ -24,6 +24,8 @@
 - 📚 **Repositories**: Explore my [GitHub repositories](https://github.com/panditsiddharth) to see my projects and code.  
 - 🌱 **Community**: Follow me on my public [Telegram Channel](https://t.me/sidsanalysis) for tech updates and analysis.  
 
+&nbsp;   &nbsp;  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Jay+Shree+Hari+😊;Jay+Shree+Ram;Jay+Shree+Krishna.;Om+Namo+Naraynay.)
+
 ---
 
 ## 🛠️ Skills
@@ -32,7 +34,7 @@
 const skills = {
   programming: ["JavaScript", "Python"],
   tools: ["Git", "VS Code", "Node.js"],
-  frameworks: ["React", "Django", "Next.js"],
+  frameworks: ["express", "React", "Next.js", "flask", "fastapi"],
   interests: ["Web Development", "Open Source Contributions"],
 };
 ```
