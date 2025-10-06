@@ -23,8 +23,8 @@
 
 ## 🚀 About Me
 
-- 🎓 **Education**: BCA Graduate  
-- 💻 **Specialization**: JavaScript and Python Development  
+- 🎓 **Education**: BCA Graduate  + MCA Student
+- 💻 **Specialization**: JavaScript Development  
 - 📱 **Content Creator**: I run a YouTube channel, [IGNOU Study Center](https://www.youtube.com/ignoustudycenter), where I share educational and technical content.  
 - 📚 **Repositories**: Explore my [GitHub repositories](https://github.com/panditsiddharth) to see my projects and code.  
 - 🌱 **Community**: Follow me on my public [Telegram Channel](https://t.me/sidsanalysis) for tech updates and analysis.  
@@ -37,9 +37,9 @@
 
 ```javascript
 const skills = {
-  programming: ["JavaScript", "Python"],
+  programming: ["JavaScript"],
   tools: ["Git", "VS Code", "Node.js"],
-  frameworks: ["express", "React", "Next.js", "flask", "fastapi"],
+  frameworks: ["express", "React", "Next.js", "flask", "fastapi", "electron"],
   interests: ["Web Development", "Open Source Contributions"],
 };
 ```
