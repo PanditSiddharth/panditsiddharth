@@ -2,7 +2,7 @@
 <!-- Header Section -->
 <div align="center" style="background-color: #1E1E1E; padding: 20px; border-radius: 10px;">
     <h1 style="color: #61DBFB; font-size: 36px; font-weight: bold;">👋 Hi, I'm Siddharth Sharma</h1>
-    <p style="color: #a0a0a0; font-size: 18px;">JavaScript and Python Developer | Youtuber | Tech Enthusiast</p>
+    <p style="color: #a0a0a0; font-size: 18px;">Web Developer</p>
     <a href="https://github.com/panditsiddharth">
         <img alt="GitHub Profile" src="https://img.shields.io/badge/GitHub-@panditsiddharth-%23181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
@@ -37,10 +37,10 @@
 
 ```javascript
 const skills = {
-  programming: ["JavaScript"],
+  programming: ["JavaScript", "Python", "Rust"],
   tools: ["Git", "VS Code", "Node.js"],
   frameworks: ["express", "React", "Next.js", "flask", "fastapi", "electron"],
-  interests: ["Web Development", "Open Source Contributions"],
+  interests: ["Exploring New Tech Ideas and work on them"],
 };
 ```
 
