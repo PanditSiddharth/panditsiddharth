@@ -46,7 +46,6 @@ const skills = {
 
 <p align="left">
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
-    <img src="https://fontawesome.com/icons/rust?f=brands&s=solid" alt="Python" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Django" width="40" height="40"/>
