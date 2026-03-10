@@ -3,6 +3,11 @@
 <div align="center" style="background-color: #1E1E1E; padding: 20px; border-radius: 10px;">
     <h1 style="color: #61DBFB; font-size: 36px; font-weight: bold;">👋 Hi, I'm Siddharth Sharma</h1>
     <p style="color: #a0a0a0; font-size: 18px;">Web Developer</p>
+</div>
+    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+<div>
     <a href="https://github.com/panditsiddharth">
         <img alt="GitHub Profile" src="https://img.shields.io/badge/GitHub-@panditsiddharth-%23181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
