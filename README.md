@@ -1,86 +1,93 @@
-
-<!-- Header Section -->
-<div align="center" style="background-color: #1E1E1E; padding: 20px; border-radius: 10px;">
-    <h1 style="color: #61DBFB; font-size: 36px; font-weight: bold;">👋 Hi, I'm Siddharth Sharma</h1>
-<h3 align="center">⚡ Languages</h3>
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=javascript,python,rust&theme=dark" />
-</p>
-
-    <a href="https://github.com/panditsiddharth">
-        <img alt="GitHub Profile" src="https://img.shields.io/badge/GitHub-@panditsiddharth-%23181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="https://www.youtube.com/ignoustudycenter">
-        <img alt="YouTube Channel" src="https://img.shields.io/badge/YouTube-IGNOU Study Center-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-    </a>
-    <a href="https://t.me/sidsanalysis">
-        <img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-@sidsanalysis-%233498DB?style=for-the-badge&logo=telegram&logoColor=white" />
-    </a>
-</div>
-
----
-## Om Namo Narayanay 
-
-&nbsp;   &nbsp;  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=शान्ताकारं+भुजगशयनं+पद्मनाभं+सुरेशं।;विश्वाधारं+गगनसदृशं+मेघवर्णं+शुभाङ्गम्॥;लक्ष्मीकान्तं+कमलनयनं+योगिभिर्ध्यानगम्यम्।)
-
----
-
-## 🚀 About Me
-
-- 🎓 **Education**: BCA Graduate  + MCA Student
-- 💻 **Specialization**: JavaScript Development  
-- 📱 **Content Creator**: I run a YouTube channel, [IGNOU Study Center](https://www.youtube.com/ignoustudycenter), where I share educational and technical content.  
-- 📚 **Repositories**: Explore my [GitHub repositories](https://github.com/panditsiddharth) to see my projects and code.  
-- 🌱 **Community**: Follow me on my public [Telegram Channel](https://t.me/sidsanalysis) for tech updates and analysis.  
-
-&nbsp;   &nbsp;  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Jay+Shree+Hari+😊;Jay+Shree+Ram;Jay+Shree+Krishna.;Om+Namo+Naraynay.)
-
----
-
-## 🛠️ Skills
-
-```javascript
-const skills = {
-  programming: ["JavaScript", "Python", "Rust"],
-  tools: ["Git", "VS Code", "Node.js"],
-  frameworks: ["express", "React", "Next.js", "flask", "fastapi", "electron"],
-  interests: ["Exploring New Tech Ideas and work on them"],
-};
-```
-
-<p align="left">
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
-    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40"/>
-    <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Django" width="40" height="40"/>
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40"/>
-</p>
-
----
-
-## 📈 Stats
-
-<div align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=panditsiddharth&show_icons=true&theme=radical" alt="GitHub Stats" />
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=panditsiddharth&theme=radical" alt="GitHub Streak" />
-</div>
+<h1 align="center">Hi 👋, I'm Siddharth Sharma</h1>
+<h3 align="center">JavaScript Developer | MCA Student | Tech Creator</h3>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=panditsiddharth&langs_count=20&show_icons=true&locale=en&bg_color=0d1117&text_color=F0184E&layout=compact"
-       alt="Siddharth" />
+<a href="https://github.com/panditsiddharth">
+<img src="https://img.shields.io/badge/GitHub-panditsiddharth-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.youtube.com/ignoustudycenter">
+<img src="https://img.shields.io/badge/YouTube-IGNOU Study Center-FF0000?style=for-the-badge&logo=youtube">
+</a>
+
+<a href="https://t.me/sidsanalysis">
+<img src="https://img.shields.io/badge/Telegram-sidsanalysis-26A5E4?style=for-the-badge&logo=telegram">
+</a>
 </p>
----
-
-## 📫 Let's Connect
-
-- 📧 Email: You can reach me via my GitHub profile.  
-- 🌐 GitHub: [panditsiddharth](https://github.com/panditsiddharth)  
-- 🎥 YouTube: [IGNOU Study Center](https://www.youtube.com/ignoustudycenter)  
-- 💬 Telegram: Public Channel [@sidsanalysis](https://t.me/sidsanalysis) | Personal [@panditsiddharth](https://t.me/panditsiddharth)  
 
 ---
 
-<div align="center">
-    <p>✨ Thank you for visiting my profile! ✨</p>
-</div>
+## 🕉 Om Namo Narayanaya
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=शान्ताकारं+भुजगशयनं+पद्मनाभं+सुरेशं;विश्वाधारं+गगनसदृशं+मेघवर्णं+शुभाङ्गम्;लक्ष्मीकान्तं+कमलनयनं+योगिभिर्ध्यानगम्यम्&center=true&width=500">
+</p>
+
+---
+
+# 🚀 About Me
+
+- 🎓 **BCA Graduate + MCA Student**
+- 💻 **JavaScript Developer (Next.js / Node.js)**
+- 🧠 Building experimental tech projects
+- 🎥 Running **IGNOU Study Center** YouTube channel
+- 🌱 Currently learning **Rust + Advanced Backend Systems**
+- 📦 Created **100+ GitHub repositories**
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=javascript,python,rust&theme=dark"/>
+</p>
+
+### Frameworks & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,react,flask,fastapi,electron,git,vscode&theme=dark"/>
+</p>
+
+---
+
+# 💻 Featured Project
+
+### Online Web Compiler
+
+🌐 https://compiler.studic.in  
+
+Features:
+- Run **JavaScript / Python / Rust code in browser**
+- Real-time execution
+- Built using **Next.js + Node.js**
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=panditsiddharth&show_icons=true&theme=radical">
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=panditsiddharth&theme=radical">
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panditsiddharth&layout=compact&theme=radical">
+</p>
+
+---
+
+# 📫 Connect With Me
+
+- GitHub → https://github.com/panditsiddharth
+- YouTube → https://www.youtube.com/ignoustudycenter
+- Telegram Channel → https://t.me/sidsanalysis
+- Telegram → https://t.me/panditsiddharth
+
+---
+
+<p align="center">
+✨ Thanks for visiting my profile ✨
+</p>
